@@ -134,12 +134,5 @@ The project includes support for **Keras Tuner** to explore optimal values for:
 
 Run the tuning script to automatically search for the best configuration.
 
----
 
-## 📄 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Let me know if you'd like help writing the actual training code, evaluation script, or Keras Tuner integration!
