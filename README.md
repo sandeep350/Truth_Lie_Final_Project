@@ -5,7 +5,6 @@
 
 This repository contains a deep learning-based image classification model designed to detect whether a subject is telling the **truth** or **lying** based on visual input. Built using **TensorFlow** and **Keras**, the model employs a **Convolutional Neural Network (CNN)** to classify images into two categories: **Lie** and **Truth**.
 
----
 
 ## 📚 Table of Contents
 
@@ -17,7 +16,7 @@ This repository contains a deep learning-based image classification model design
 * [Hyperparameter Tuning](#hyperparameter-tuning)
 * [License](#license)
 
----
+
 
 ## 📌 Project Overview
 
